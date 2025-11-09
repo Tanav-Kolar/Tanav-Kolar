@@ -1,4 +1,11 @@
 ## Hi there 👋
+<img src="https://github.com/{USERNAME}/{USERNAME}/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
+
+
+
+
+
+
 
 <!--
 **Tanav-Kolar/Tanav-Kolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
